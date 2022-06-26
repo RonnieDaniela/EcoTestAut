@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="EcoTestAut.EcoTestAut.Clase01"/>
+      <class name="EcoTestAut.EcoTestAut.Clase02"/>
+      <class name="EcoTestAut.EcoTestAut.Clase03"/>
+      <class name="EcoTestAut.EcoTestAut.Clase04"/>
+      <class name="EcoTestAut.EcoTestAut.AppTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
